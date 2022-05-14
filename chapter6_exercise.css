@@ -4,3 +4,31 @@
   box-sizing: border-box;
 }
 
+.image {
+  width: 100%;
+  height: 200px;
+}
+
+.image:first-child {
+  background-image: url(img/box1.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.image:nth-child(2) {
+  background-image: url(img/box2.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.image:nth-child(3) {
+  background-image: url(img/box3.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.image:last-child {
+  background-image: url(img/box4.jpg);
+  background-size: cover;
+  background-position: center;
+}
