@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #848282;
+}
+
+a {
+  color: #848282;
+}
+
+.header-container {
+  height: 400px;
+  background-image: url(img7/mv.jpg);
+  background-position: bottom;
+  background-size: cover;
+}
+
+.logo {
+  padding: 20px 0 0 20px;
+}
+
+.container {
+  width: 840px;
+  margin: 50px auto;
+}
+
+.item {
+  border-bottom: 1px solid #848282;
+  padding-bottom: 30px;
+}
+
+.item-space {
+  margin-bottom: 30px;
+}
