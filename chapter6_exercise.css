@@ -10,25 +10,25 @@
 }
 
 .image:first-child {
-  background-image: url(img/box1.jpg);
+  background-image: url(img6/box1.jpg);
   background-size: cover;
   background-position: center;
 }
 
 .image:nth-child(2) {
-  background-image: url(img/box2.jpg);
+  background-image: url(img6/box2.jpg);
   background-size: cover;
   background-position: center;
 }
 
 .image:nth-child(3) {
-  background-image: url(img/box3.jpg);
+  background-image: url(img6/box3.jpg);
   background-size: cover;
   background-position: center;
 }
 
 .image:last-child {
-  background-image: url(img/box4.jpg);
+  background-image: url(img6/box4.jpg);
   background-size: cover;
   background-position: center;
 }
